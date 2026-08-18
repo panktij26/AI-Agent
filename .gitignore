@@ -1,1 +1,14 @@
+# Environment variables (Crucial: never push real API keys)
+.env
 
+# Python cache & virtual environment
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
