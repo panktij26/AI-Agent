@@ -1,0 +1,19 @@
+Arjun Mehta
+arjun.mehta@example.com | +91-98xxxxxx06
+
+SUMMARY
+Fresh graduate with strong academic project experience in Python backend
+development. Eager to start a career as a backend developer.
+
+SKILLS
+Python, Flask, FastAPI (academic projects), SQLite, PostgreSQL (coursework), Git,
+Docker (basic), REST API design (coursework)
+
+PROJECTS
+- Built a FastAPI-based library management system with PostgreSQL backend (college project)
+- Built a Flask REST API for a food delivery clone with JWT authentication
+- Containerized a personal project using Docker for a class assignment
+
+EDUCATION
+B.Tech in Computer Science, VIT Vellore (2021 - 2025)
+Relevant coursework: Database Management Systems, Web Development, Operating Systems

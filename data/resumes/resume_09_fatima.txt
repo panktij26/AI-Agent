@@ -1,0 +1,21 @@
+Fatima Sheikh
+fatima.sheikh@example.com | +91-98xxxxxx09
+
+SUMMARY
+Mobile app developer with 3 years of experience in Android development using
+Kotlin and Java. Limited backend exposure.
+
+SKILLS
+Kotlin, Java, Android SDK, Firebase, REST API consumption, Git, basic Python
+
+EXPERIENCE
+Android Developer, AppNest Studios (2022 - Present)
+- Built Android apps consuming REST APIs built by backend team
+- Used Firebase for authentication and push notifications
+- Occasionally wrote small Python scripts for build automation
+
+Android Developer Intern, MobileFirst (2021 - 2022)
+- Assisted in building UI components for an Android app
+
+EDUCATION
+B.E. Computer Engineering, Mumbai University (2018 - 2022)

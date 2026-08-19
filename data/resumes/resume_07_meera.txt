@@ -1,0 +1,21 @@
+Meera Iyengar
+meera.iyengar@example.com | +91-98xxxxxx07
+
+SUMMARY
+QA Automation Engineer with 4 years of experience testing web applications.
+Some scripting experience in Python.
+
+SKILLS
+Selenium, Python (scripting), Java, TestNG, Jenkins, basic SQL, Git
+
+EXPERIENCE
+QA Automation Engineer, TestPro Systems (2021 - Present)
+- Wrote Python scripts to automate UI test cases with Selenium
+- Set up Jenkins pipelines for automated test runs
+- Wrote basic SQL queries to validate database state after tests
+
+QA Analyst, WebCheck Labs (2020 - 2021)
+- Manual testing of web applications, basic bug tracking
+
+EDUCATION
+B.Sc Information Technology, Mumbai University (2016 - 2019)

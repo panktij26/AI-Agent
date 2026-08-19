@@ -1,0 +1,21 @@
+Sneha Reddy
+sneha.reddy@example.com | +91-98xxxxxx05
+
+SUMMARY
+Data analyst with 3 years of experience in SQL reporting and Python for data
+analysis. Interested in transitioning to backend development.
+
+SKILLS
+Python (pandas, numpy), SQL, Excel, Tableau, basic Flask, Git
+
+EXPERIENCE
+Data Analyst, RetailMetrics (2022 - Present)
+- Wrote complex SQL queries for sales reporting
+- Built Python scripts using pandas for data cleaning and analysis
+- Created a small internal Flask app to expose reports as an API (first backend project)
+
+Business Analyst Intern, MarketSense (2021 - 2022)
+- Analyzed customer data using Excel and SQL
+
+EDUCATION
+B.Com with minor in Data Science, Symbiosis (2018 - 2021)

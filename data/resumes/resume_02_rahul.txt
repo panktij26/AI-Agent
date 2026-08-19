@@ -1,0 +1,22 @@
+Rahul Verma
+rahul.verma@example.com | +91-98xxxxxx02
+
+PROFILE
+Python developer with 2 years experience. Currently working on internal automation
+tools and starting to move into backend API development.
+
+SKILLS
+Python, Flask, MySQL, Git, basic Docker, Linux shell scripting
+
+WORK EXPERIENCE
+Junior Developer, Automate Solutions (2023 - Present)
+- Built internal Flask APIs for automating data reports
+- Wrote SQL queries against MySQL database for report generation
+- Used Git for version control in a team of 4 developers
+
+Trainee Developer, TechBridge (2022 - 2023)
+- Assisted senior developers with bug fixes in a Python/Flask codebase
+- Learned Docker basics for local development environments
+
+EDUCATION
+B.Sc Computer Science, Delhi University (2019 - 2022)

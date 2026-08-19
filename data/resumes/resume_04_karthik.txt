@@ -1,0 +1,25 @@
+Karthik Iyer
+karthik.iyer@example.com | +91-98xxxxxx04
+
+SUMMARY
+Senior backend engineer with 6 years of experience building scalable APIs and
+distributed systems, with deep expertise in Python and cloud infrastructure.
+
+SKILLS
+Python, Django, FastAPI, PostgreSQL, Redis, Docker, Kubernetes, AWS (EC2, Lambda, RDS,
+S3), Kafka, Celery, GitHub Actions, pytest, system design
+
+EXPERIENCE
+Senior Backend Engineer, ScaleUp Technologies (2019 - Present)
+- Led migration of monolithic Django app to microservices using FastAPI
+- Designed PostgreSQL sharding strategy handling 5M+ records
+- Implemented Kafka-based event pipeline for order processing
+- Mentored 3 junior engineers, ran code reviews
+
+Backend Developer, DataForge Inc (2018 - 2019)
+- Built REST APIs for a logistics platform using Django REST Framework
+- Wrote integration tests and set up CI pipeline
+
+EDUCATION
+M.Tech in Computer Science, IIT Bombay (2016 - 2018)
+B.Tech in Computer Science, NIT Trichy (2012 - 2016)

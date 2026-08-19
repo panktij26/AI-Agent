@@ -1,0 +1,25 @@
+Ananya Sharma
+Email: ananya.sharma@example.com | Phone: +91-98xxxxxx01
+
+SUMMARY
+Backend developer with 4 years of experience building REST APIs in Python.
+Comfortable working across the full stack from database design to deployment.
+
+SKILLS
+Python, FastAPI, Django REST Framework, PostgreSQL, MySQL, Docker, AWS (EC2, S3, RDS),
+Git, Celery, RabbitMQ, pytest, CI/CD (GitHub Actions)
+
+EXPERIENCE
+Backend Engineer, Finlytics Pvt Ltd (2021 - Present)
+- Built and maintained 15+ REST API endpoints serving 200k+ daily requests using FastAPI
+- Designed PostgreSQL schema and wrote migration scripts for a multi-tenant SaaS product
+- Containerized services with Docker and deployed to AWS ECS
+- Set up CI/CD pipeline with GitHub Actions, cutting deployment time by 40%
+- Wrote unit and integration tests, achieving 85% test coverage
+
+Software Engineer Intern, CodeNest Labs (2020 - 2021)
+- Developed internal tools using Django REST Framework and MySQL
+- Wrote SQL queries for reporting dashboards
+
+EDUCATION
+B.Tech in Computer Science, Indian Institute of Information Technology (2017 - 2021)

@@ -1,0 +1,25 @@
+Dev Patel
+dev.patel@example.com | +91-98xxxxxx10
+
+SUMMARY
+DevOps engineer with 4 years of experience in cloud infrastructure and
+containerization, with working knowledge of Python for automation and some
+backend API development.
+
+SKILLS
+Python, Docker, Kubernetes, AWS (EC2, EKS, RDS, S3), Terraform, CI/CD (Jenkins,
+GitHub Actions), PostgreSQL (admin), Flask (automation APIs), Git
+
+EXPERIENCE
+DevOps Engineer, CloudNine Systems (2021 - Present)
+- Managed Kubernetes clusters on AWS EKS for microservices platform
+- Wrote Terraform scripts for infrastructure provisioning
+- Built small Flask APIs for internal tooling and health-check endpoints
+- Administered PostgreSQL databases (backups, performance tuning)
+- Set up CI/CD pipelines using GitHub Actions and Jenkins
+
+Systems Engineer, InfraWorks (2019 - 2021)
+- Managed on-prem Linux servers, basic Python automation scripts
+
+EDUCATION
+B.Tech in Computer Science, Gujarat Technological University (2015 - 2019)

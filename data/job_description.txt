@@ -1,0 +1,31 @@
+Job Title: Backend Python Developer (Mid-Level)
+
+About the role:
+We are hiring a Backend Python Developer to join our engineering team. The ideal
+candidate has hands-on experience building and deploying REST APIs, working with
+relational databases, and writing clean, tested code. Experience with cloud platforms
+and containerization is a strong plus.
+
+Responsibilities:
+- Design, build, and maintain REST APIs using Python (Flask/Django/FastAPI)
+- Write efficient SQL queries and manage schema migrations (PostgreSQL/MySQL)
+- Write unit and integration tests; participate in code review
+- Deploy and monitor services on cloud infrastructure (AWS/GCP/Azure)
+- Collaborate with frontend engineers and product managers
+
+Required Skills:
+- 2+ years of professional experience with Python
+- Strong understanding of REST API design
+- Experience with relational databases (PostgreSQL, MySQL, or similar)
+- Familiarity with Git and collaborative development workflows
+- Basic understanding of Docker / containerization
+
+Nice to Have:
+- Experience with FastAPI or Django REST Framework
+- Experience with AWS or GCP
+- Exposure to CI/CD pipelines
+- Familiarity with message queues (Celery, RabbitMQ, Kafka)
+
+Education:
+Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent
+practical experience).

@@ -1,0 +1,23 @@
+Vikram Chauhan
+vikram.chauhan@example.com | +91-98xxxxxx08
+
+SUMMARY
+Backend developer with 5 years experience, strong focus on Django and PostgreSQL,
+with recent exposure to cloud deployment.
+
+SKILLS
+Python, Django, Django REST Framework, PostgreSQL, Redis, Docker, AWS (EC2, S3),
+Git, pytest, Celery
+
+EXPERIENCE
+Backend Developer, HealthTrack Systems (2020 - Present)
+- Built REST APIs for a healthcare scheduling platform using Django REST Framework
+- Designed PostgreSQL schema for patient records with strict data integrity constraints
+- Deployed services to AWS EC2 using Docker Compose
+- Integrated Celery + Redis for background job processing (appointment reminders)
+
+Python Developer, InfoWeb Solutions (2018 - 2020)
+- Maintained legacy Django application, fixed bugs, added REST endpoints
+
+EDUCATION
+B.Tech in Information Technology, Pune University (2014 - 2018)

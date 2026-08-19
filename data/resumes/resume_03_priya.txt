@@ -1,0 +1,21 @@
+Priya Nair
+priya.nair@example.com | +91-98xxxxxx03
+
+SUMMARY
+Full-stack developer with 3 years of experience, primarily focused on frontend
+React development but with growing backend experience.
+
+SKILLS
+JavaScript, React, Node.js, Express, MongoDB, basic Python, HTML/CSS, Git
+
+EXPERIENCE
+Frontend Developer, PixelWorks (2022 - Present)
+- Built React dashboards consuming REST APIs
+- Occasionally wrote small Node/Express endpoints
+- Used MongoDB for a side project's data storage
+
+Junior Web Developer, StartUpHub (2021 - 2022)
+- Built landing pages and marketing sites
+
+EDUCATION
+B.E. Information Technology, Anna University (2017 - 2021)
